@@ -6,11 +6,8 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello PhoneGap</name>
+    <name>JQueryMobileButtons</name>
 
-    <description>
-        Hello PhoneGap sample application that responds to the deviceready event.
-    </description>
 
     <!-- Define the main entry-point to the application -->
     <content src="index.html" />
